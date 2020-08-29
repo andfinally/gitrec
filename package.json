@@ -1,0 +1,15 @@
+{
+  "name": "gitrec",
+  "version": "1.0.0",
+  "description": "Allows you to check out one of your recent Git branches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andfinally",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "prompt-checkbox": "^2.2.0"
+  }
+}
