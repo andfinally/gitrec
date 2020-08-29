@@ -9,7 +9,6 @@
   "author": "Andfinally",
   "license": "MIT",
   "dependencies": {
-    "enquirer": "^2.3.6",
-    "prompt-checkbox": "^2.2.0"
+    "enquirer": "^2.3.6"
   }
 }
