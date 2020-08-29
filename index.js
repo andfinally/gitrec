@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { Select } = require("enquirer");
 const { exec } = require("child_process");
 const { stderr, stdout } = require("process");
